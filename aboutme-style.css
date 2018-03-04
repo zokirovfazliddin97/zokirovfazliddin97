@@ -1,0 +1,37 @@
+body {
+    background-color: #696969;
+}
+
+h1 {
+    color: #00BFFF;
+    font-family: Times ;
+    font-size: 50px;
+    font-weight: 20px;
+    
+}
+b
+{
+	color: yellow;
+}
+h3
+{
+color: #00BFFF;
+font-size: 25px;
+    
+}
+ul,ol
+{
+	font-size: 20px;
+	color:white;
+}
+p {
+    font-family: Times;
+    font-size: 20px; 
+    color:white;
+
+    
+}
+a
+{
+	color: #FF1493;
+}
